@@ -22,7 +22,7 @@ repository               : "jenhany/jenhany.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.png"
+  avatar           : "me.jpg"
   name             : "Jen-Han Yang (Hank) 楊人翰"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professfor at "
